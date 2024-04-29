@@ -1,0 +1,144 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+  #name{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    text-align: center;
+    background-color: aqua;
+    margin-top: 200px;
+}
+      /* second page  */
+      #dipu{
+        background-color: white;
+        margin-top: 50px;
+      }
+    #wondors{
+        text-align: center;
+    }
+    .button{
+        background-color: aqua;
+        height: 60px;
+        
+    }
+    #dipu{
+      background-color: white;
+      margin: 0;
+      padding: 0;
+    }
+    #back{
+      height: 60px;
+      text-size-adjust: 40px;
+    }
+    .contact{
+      margin-right:290px;
+    }
+    /* kfgyuewfewfyg */
+    .one{
+      height: 200px;
+      width: 200px;
+      border: 2px solid;
+      margin-top: 50px;
+      background-image: url(great.jpeg);
+      margin: 30px;
+    }
+    #main{
+      display: flex;
+    }
+    #great{
+      margin-top: 40px;
+}
+    
+    .two{
+      height: 200px;
+      width: 200px;
+      border: 2px solid;
+      margin: 30px;
+      background-image: url(petra\ 2.jpeg);
+    }
+    #second{
+      display: flex;
+    }
+#petra{
+  margin-top: 50px;
+}
+.three{
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+  background-image: url(colosseum.jpeg);
+  margin: 30px;
+}
+#third{
+  display: flex;
+}
+#colosseum{
+  margin-top: 50px;
+}
+.four{
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+  margin: 30px;
+  background-image: url(chichen.jpeg);
+}
+#fourth{
+  display: flex;
+}
+#chichen{
+  margin-top: 50px;
+}
+.five{
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+  margin: 30px;
+  background-image: url(machu\ pichu.jpeg);
+}
+#fifth{
+  display: flex;
+}
+.machu{
+  margin-top: 50px;
+}
+.six{
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+  margin: 30px;
+  background-image: url(tajmahal.jpeg);
+}
+#sixth{
+  display: flex;
+}
+.taj{
+  margin-top: 50px;
+}
+.seven{
+  height: 200px;
+  width: 200px;
+  border: 2px solid;
+  margin: 30px;
+  background-image: url(christ.jpeg);
+}
+#seventh{
+  display: flex;
+}
+.christ{
+  margin-top: 50px;
+}
+.raj{
+  background-color: aqua;
+  height: 50px;
+}
+.wall{
+height: 50px;
+background-color: aliceblue;
+margin: 0;
+padding: 0;
+}
+.nehal{
+margin-right: 50px;
+}
